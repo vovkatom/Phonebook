@@ -1,8 +1,8 @@
 {
-  "name": "react-hw-08-phonebooks",
+  "name": "Phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vovkatom.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://vovkatom.github.io/Phonebook/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
